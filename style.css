@@ -2,6 +2,10 @@
 	font-family: 'Roboto', sans-serif;
 }
 
+iframe[seamless] {
+    border: none;
+}
+
 #main {
 	margin-top: 70px;
 }
